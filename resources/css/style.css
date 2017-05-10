@@ -6,7 +6,7 @@ html {
 }
 
 h1 {
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
 }
 
@@ -19,6 +19,7 @@ h2 {
 h3 {
   color: grey;
   font-size: 21px;
+  font-weight: 300;
 }
 
 a {
